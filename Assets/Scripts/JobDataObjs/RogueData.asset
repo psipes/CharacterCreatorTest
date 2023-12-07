@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5821696fc06c54ab331573b8fe6783, type: 3}
+  m_Name: RogueData
+  m_EditorClassIdentifier: 
+  jobName: Rogue
+  titles:
+  - Rogue
+  - Thief
+  - Assassin
+  - Ninja
+  - Pickpocket
+  - Scoundrel
+  - Bandit
+  modifiers:
+  - Larcenous
+  - Shadow
+  - Poisonous
+  - Silent
+  - Deadly
+  - Devious
+  - Golden
+  - Righteous
+  - Cursed
+  - Noble
+  - Godless
+  minHP: 45
+  maxHP: 60
+  minDef: 12
+  maxDef: 20
+  minAtt: 7
+  maxAtt: 16
+  minMag: 0
+  maxMag: 5
+  clothes:
+  - {fileID: 2800000, guid: d166dec9c271571488403a2ab2e0d195, type: 3}
+  - {fileID: 2800000, guid: 8416feb75c3493844bc6dd82797d3dd3, type: 3}
+  - {fileID: 2800000, guid: 3df017de33b1e8e4f987f68dba6af7ae, type: 3}
+  - {fileID: 2800000, guid: 330351f0fed564547b0451ff7a2f04bd, type: 3}
+  weapon:
+  - {fileID: 2800000, guid: 707dd4c582a09ff42a04e36d04a587b5, type: 3}
+  - {fileID: 2800000, guid: eb9495fa235e1fe458d3957e636c1738, type: 3}
+  - {fileID: 2800000, guid: 0039c8c59393bbf47939cc24bb2e12bd, type: 3}
+  - {fileID: 2800000, guid: 35a2414d92ee61744b85865dfac81bed, type: 3}

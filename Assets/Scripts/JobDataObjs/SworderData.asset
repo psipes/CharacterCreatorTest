@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5821696fc06c54ab331573b8fe6783, type: 3}
+  m_Name: SworderData
+  m_EditorClassIdentifier: 
+  jobName: Sworder
+  titles:
+  - Sworder
+  - Knight
+  - Paladin
+  - Duelist
+  - Blademaster
+  - Cavalier
+  - Sword Dancer
+  - Warrior
+  - Squire
+  modifiers:
+  - Blessed
+  - Honorbound
+  - Unrivaled
+  - Kingless
+  - Noble
+  - Southern
+  - Northern
+  - Flame
+  - Prophetic
+  - Apocalyptic
+  - Prodigal
+  - Ruinous
+  - Psionic
+  - Aurabound
+  - Cursed
+  - Armored
+  - Eldritch
+  - Demonic
+  - Arcane
+  - Holy
+  minHP: 65
+  maxHP: 80
+  minDef: 12
+  maxDef: 20
+  minAtt: 10
+  maxAtt: 20
+  minMag: 0
+  maxMag: 3
+  clothes:
+  - {fileID: 2800000, guid: b770745c3e6089348bda5469b0e36a57, type: 3}
+  - {fileID: 2800000, guid: 658237f35a5200b439a905176bf821f9, type: 3}
+  - {fileID: 2800000, guid: 3b21a24cee35d6c45b231ed5c583c5b5, type: 3}
+  - {fileID: 2800000, guid: d0c3d75a3d6113041b590e5171dcb252, type: 3}
+  weapon:
+  - {fileID: 2800000, guid: 36a6137cc07872240892ad2b21c88eac, type: 3}
+  - {fileID: 2800000, guid: 52191f1ec49b00f4599c3b0862e9aa26, type: 3}
+  - {fileID: 2800000, guid: 21479220bd2bf984186f6c78b40fd1f0, type: 3}
+  - {fileID: 2800000, guid: 9609ab103377b9d41b730a7dbd5d02db, type: 3}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5821696fc06c54ab331573b8fe6783, type: 3}
+  m_Name: DruidData
+  m_EditorClassIdentifier: 
+  jobName: Druid
+  titles:
+  - Druid
+  - Shaman
+  - Wild One
+  - Wildling
+  - Beastling
+  - Tamer
+  - Forest Guardian
+  modifiers:
+  - Flora
+  - Fauna
+  - Urban
+  - Aquatic
+  - Arctic
+  - Sun-Kissed
+  - Moon-Blessed
+  - Celestial
+  - Eldritch
+  - Divine
+  - Prophetic
+  - Savage
+  - Annointed
+  - All Seeing
+  - Fae-Friended
+  minHP: 60
+  maxHP: 75
+  minDef: 15
+  maxDef: 25
+  minAtt: 8
+  maxAtt: 12
+  minMag: 11
+  maxMag: 15
+  clothes:
+  - {fileID: 2800000, guid: bf1bf6ced4da68841b3af903a8500b70, type: 3}
+  - {fileID: 2800000, guid: b930b28c7c036944a9e54c913c957eb4, type: 3}
+  - {fileID: 2800000, guid: c31cf98000b0ed14da62b300d057841f, type: 3}
+  - {fileID: 2800000, guid: 06c8c036e8437c64a9ae2ad21314b2e3, type: 3}
+  weapon:
+  - {fileID: 2800000, guid: 59cb9a267c6100046be8b7353c7e444e, type: 3}
+  - {fileID: 2800000, guid: c31cf98000b0ed14da62b300d057841f, type: 3}
+  - {fileID: 2800000, guid: c8d61238863fc10448b540f33205c6df, type: 3}
+  - {fileID: 2800000, guid: 82bd935750d59c14a816689a4de91df1, type: 3}

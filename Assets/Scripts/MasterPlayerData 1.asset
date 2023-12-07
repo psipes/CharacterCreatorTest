@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc9f477be589414f8afee2f37dbe687, type: 3}
+  m_Name: MasterPlayerData 1
+  m_EditorClassIdentifier: 
+  hp: 61
+  dp: 15
+  ap: 10
+  mp: 11
+  job: Druid
+  displayJob: Tamer
+  jobMod: Divine
+  cardTextures:
+  - {fileID: 2800000, guid: f7c010856cd26d44b86bae92688be05a, type: 3}
+  - {fileID: 2800000, guid: ca2ab302ec8d21b47ab5e0d69853de9e, type: 3}
+  - {fileID: 2800000, guid: bf1bf6ced4da68841b3af903a8500b70, type: 3}
+  - {fileID: 2800000, guid: b930b28c7c036944a9e54c913c957eb4, type: 3}
+  - {fileID: 2800000, guid: ef4cef106ca42154f9aaff326abb8285, type: 3}
+  - {fileID: 2800000, guid: 06c8c036e8437c64a9ae2ad21314b2e3, type: 3}
+  - {fileID: 2800000, guid: 59cb9a267c6100046be8b7353c7e444e, type: 3}
+  - {fileID: 2800000, guid: ef4cef106ca42154f9aaff326abb8285, type: 3}
+  - {fileID: 2800000, guid: c8d61238863fc10448b540f33205c6df, type: 3}
+  - {fileID: 2800000, guid: 82bd935750d59c14a816689a4de91df1, type: 3}

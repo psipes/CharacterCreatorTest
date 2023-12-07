@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5821696fc06c54ab331573b8fe6783, type: 3}
+  m_Name: BarbarianData
+  m_EditorClassIdentifier: 
+  jobName: Barbarian
+  titles:
+  - Barbarian
+  - Berserker
+  - Fighter
+  - Battlerager
+  modifiers:
+  - Savage
+  - Brutal
+  - Gentle
+  - Mindless
+  - Lost
+  - Unforgiven
+  - Raging
+  - Blood-Fueled
+  - Revenge-Driven
+  - Oathbound
+  - Booksmart
+  - Honorable
+  - Moon-Guided
+  - Screaming
+  - Laughing
+  minHP: 80
+  maxHP: 95
+  minDef: 12
+  maxDef: 30
+  minAtt: 12
+  maxAtt: 20
+  minMag: 0
+  maxMag: 3
+  clothes:
+  - {fileID: 2800000, guid: cc185155a20d69742851ccfe3d984f78, type: 3}
+  - {fileID: 2800000, guid: 9ad57d7f0122a9f4183468903979ffdd, type: 3}
+  - {fileID: 2800000, guid: b42c970c3b2efa54b90153070d33216b, type: 3}
+  - {fileID: 2800000, guid: 4c3cc358dff83244b8499f0ec32a4c48, type: 3}
+  weapon:
+  - {fileID: 2800000, guid: 8a5ea5d08c40c5f48a7be5384251a84b, type: 3}
+  - {fileID: 2800000, guid: b0c2a052f0013e84abc85aaa09879c0c, type: 3}
+  - {fileID: 2800000, guid: d1e5330792043694aa46655cb3670f35, type: 3}
+  - {fileID: 2800000, guid: e5632643eae415343bf76642a71d0ce1, type: 3}

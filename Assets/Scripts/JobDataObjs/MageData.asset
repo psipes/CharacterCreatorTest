@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5821696fc06c54ab331573b8fe6783, type: 3}
+  m_Name: MageData
+  m_EditorClassIdentifier: 
+  jobName: Mage
+  titles:
+  - Mage
+  - Magician
+  - Sorcerer
+  - Wizard
+  - Witch
+  - Seer
+  - Necromancer
+  - Enchanter
+  - Magus
+  - Warlock
+  - Conjurer
+  - Thaumaturge
+  - Hexer
+  - Occultist
+  modifiers:
+  - Demonic
+  - Blood
+  - Storm
+  - Ruinous
+  - Sacred
+  - Poison
+  - Corrupted
+  - Ice
+  - Unholy
+  - Fire
+  - Water
+  - Rage
+  - Enlightened
+  minHP: 50
+  maxHP: 63
+  minDef: 15
+  maxDef: 20
+  minAtt: 5
+  maxAtt: 10
+  minMag: 12
+  maxMag: 16
+  clothes:
+  - {fileID: 2800000, guid: b9b25f97f57315d40b516f7313f33268, type: 3}
+  - {fileID: 2800000, guid: 0b9901d2d66ce804fbb1897c866e93a4, type: 3}
+  - {fileID: 2800000, guid: 5aaff85c2f7df8b4f993df5d0618bc42, type: 3}
+  - {fileID: 2800000, guid: 6a19655e3529e234985dd2de02ffa597, type: 3}
+  weapon:
+  - {fileID: 2800000, guid: e98a4bc14ba414e42aee8ff2882f693b, type: 3}
+  - {fileID: 2800000, guid: 1be5b127b9fbde34996e6f736d6b3efe, type: 3}
+  - {fileID: 2800000, guid: 458aafebf869ce546bf7aa59bc5f49ee, type: 3}
+  - {fileID: 2800000, guid: d3b30cd0449069d43b8f62771d5cd797, type: 3}
